@@ -10,3 +10,5 @@ print(" *       * ")
 print("   *****   ")
 
 print('Hola hecho por Jose Gilberto Davila Bailon ')
+
+print('Hola hecho por Alejandra Quirarte Agüero ')
